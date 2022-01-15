@@ -319,7 +319,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("ɢᴇᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ",
-                                             url="https://t.me/Rex_bots_support)
+                                             url="https://t.me/Rex_bots_support")
                     ],
                     [
                         InlineKeyboardButton("🏠 ʜᴏᴍᴇ", callback_data="gotohome"),
