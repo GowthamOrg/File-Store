@@ -22,31 +22,31 @@ class Config(object):
 This is Permanent Files Store Bot!
 Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
 
-🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
+🤖 **ᴍʏ ɴᴀᴍᴇ:** [𝙵𝚒𝚕𝚎𝚂𝚝𝚘𝚛𝚎𝙱𝚘𝚝](https://t.me/{BOT_USERNAME})
 
-📝 **Language:** [Python3](https://www.python.org)
+📝 **ʟᴀɴɢᴜᴀɢᴇ:** [𝙿𝚢𝚝𝚑𝚘𝚗3](https://www.python.org)
 
-📚 **Library:** [Pyrogram](https://docs.pyrogram.org)
+📚 **ʟɪʙʀᴀʀʏ:** [𝙿𝚢𝚛𝚘𝚐𝚛𝚊𝚖](https://docs.pyrogram.org)
 
-📡 **Hosted on:** [Heroku](https://heroku.com)
+📡 **ʜᴏsᴛᴇᴅ ᴏɴ:** [𝙷𝚎𝚛𝚘𝚔𝚞](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ:** @benwolf24
 
-👥 **Support Group:** [Linux Repositories](https://t.me/DevsZone)
+👥 **ɢʀᴏᴜᴘ:** [𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝙶𝚛𝚘𝚞𝚙](https://t.me/rex_bots_support)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+📢 **ᴄʜᴀɴɴᴇʟ:** [𝚁𝚎𝚡𝙱𝚘𝚝𝚣](https://t.me/rex_botz)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛:** @benwolf24
 
-Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
+𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚒𝚜 𝚜𝚞𝚙𝚎𝚛 𝙽𝚘𝚘𝚋. 𝙹𝚞𝚜𝚝 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚏𝚛𝚘𝚖 𝚘𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝙳𝚘𝚌𝚜. 𝙿𝚕𝚎𝚊𝚜𝚎 𝙳𝚘𝚗𝚊𝚝𝚎 𝚝𝚑𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚝𝚘 𝚔𝚎𝚎𝚙 𝚝𝚑𝚒𝚜 𝚜𝚎𝚛𝚟𝚒𝚌𝚎 𝚊𝚕𝚒𝚟𝚎.
 
-Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
+𝙰𝚕𝚜𝚘 𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛 𝚝𝚑𝚊𝚝 𝚊𝚍𝚞𝚕𝚝 𝚌𝚘𝚗𝚝𝚎𝚗𝚝𝚜 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚛𝚎𝚖𝚘𝚟𝚎𝚍 𝚋𝚢 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝚂𝚘 𝚋𝚎𝚝𝚝𝚎𝚛 𝚍𝚘𝚗'𝚝 𝚜𝚝𝚘𝚛𝚎 𝚝𝚑𝚘𝚜𝚎 𝚔𝚒𝚗𝚍𝚜 𝚘𝚏 𝚝𝚑𝚒𝚗𝚐𝚜.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+[ᴅᴏɴᴀᴛᴇ ᴅᴇᴠ](https://t.me/benwolf24) (AnyMethod)
 """
 	HOME_TEXT = """
-Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
+Hi, [{}](tg://user?id={})\n\n𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝙿𝚎𝚛𝚖𝚊𝚗𝚎𝚗𝚝 **𝙵𝚒𝚕𝚎 𝚂𝚝𝚘𝚛𝚎 𝙱𝚘𝚝**.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
+𝚂𝚎𝚗𝚍 𝙼𝚎 𝚊𝚗𝚢 𝙵𝚒𝚕𝚎 𝙸 𝚠𝚒𝚕𝚕 𝚐𝚒𝚟𝚎 𝚢𝚘𝚞 𝚙𝚎𝚛𝚖𝚊𝚗𝚎𝚗𝚝 𝚜𝚑𝚊𝚛𝚊𝚋𝚕𝚎 𝙻𝚒𝚗𝚔. 𝙸 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚒𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕 𝚊𝚕𝚜𝚘! 𝙲𝚑𝚎𝚌𝚔 **About Bot** 𝙱𝚞𝚝𝚝𝚘𝚗.
 """
