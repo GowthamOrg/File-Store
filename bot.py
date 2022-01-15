@@ -73,12 +73,12 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/JoinOT"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
+                        InlineKeyboardButton("🇮🇳 ᴄʜᴀɴɴᴇʟ", url="https://t.me/Rex_Botz"),
+                        InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url="https://t.me/Rex_Bots_Support")
                     ],
                     [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs")
+                        InlineKeyboardButton("😇 ᴀʙᴏᴜᴛ ʙᴏᴛ", callback_data="aboutbot"),
+                        InlineKeyboardButton("🤫 ᴀʙᴏᴜᴛ ᴅᴇᴠ", callback_data="aboutdevs")
                     ]
                 ]
             )
@@ -318,12 +318,12 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/AbirHasan2005/PyroFilesStoreBot")
+                        InlineKeyboardButton("ɢᴇᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ",
+                                             url="https://t.me/Rex_bots_support)
                     ],
                     [
-                        InlineKeyboardButton("Go Home", callback_data="gotohome"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs")
+                        InlineKeyboardButton("🏠 ʜᴏᴍᴇ", callback_data="gotohome"),
+                        InlineKeyboardButton("🤫 ᴀʙᴏᴜᴛ ᴅᴇᴠ", callback_data="aboutdevs")
                     ]
                 ]
             )
@@ -337,12 +337,12 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/AbirHasan2005/PyroFilesStoreBot")
+                        InlineKeyboardButton("ɢᴇᴛ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ",
+                                             url="https://t.me/Rex_bots_support")
                     ],
                     [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("Go Home", callback_data="gotohome")
+                        InlineKeyboardButton("😇 ᴀʙᴏᴜᴛ ʙᴏᴛ", callback_data="aboutbot"),
+                        InlineKeyboardButton("🏠 ʜᴏᴍᴇ", callback_data="gotohome")
                     ]
                 ]
             )
@@ -356,12 +356,12 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/JoinOT"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
+                        InlineKeyboardButton("🇮🇳 ᴄʜᴀɴɴᴇʟ", url="https://t.me/Rex_botz"),
+                        InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url="https://t.me/rex_bots_support")
                     ],
                     [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs")
+                        InlineKeyboardButton("😇 ᴀʙᴏᴜᴛ ʙᴏᴛ", callback_data="aboutbot"),
+                        InlineKeyboardButton("🤫 ᴀʙᴏᴜᴛ ᴅᴇᴠ", callback_data="aboutdevs")
                     ]
                 ]
             )
@@ -414,12 +414,12 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/JoinOT"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
+                        InlineKeyboardButton("🇮🇳 ᴄʜᴀɴɴᴇʟ", url="https://t.me/Rex_botz"),
+                        InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url="https://t.me/rex_bots_support")
                     ],
                     [
-                        InlineKeyboardButton("About Bot", callback_data="aboutbot"),
-                        InlineKeyboardButton("About Dev", callback_data="aboutdevs")
+                        InlineKeyboardButton("😇 ᴀʙᴏᴜᴛ ʙᴏᴛ", callback_data="aboutbot"),
+                        InlineKeyboardButton("🤫 ᴀʙᴏᴜᴛ ᴅᴇᴠ", callback_data="aboutdevs")
                     ]
                 ]
             )
@@ -447,8 +447,8 @@ async def button(bot: Client, cmd: CallbackQuery):
         await cmd.message.edit("File Saved in Batch!\n\n"
                                "Press below button to get batch link.",
                                reply_markup=InlineKeyboardMarkup([
-                                   [InlineKeyboardButton("Get Batch Link", callback_data="getBatchLink")],
-                                   [InlineKeyboardButton("Close Message", callback_data="closeMessage")]
+                                   [InlineKeyboardButton("ɢᴇᴛ ʙᴀᴛᴄʜ ʟɪɴᴋ", callback_data="getBatchLink")],
+                                   [InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="closeMessage")]
                                ]))
 
     elif "addToBatchFalse" in cb_data:
